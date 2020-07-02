@@ -1,0 +1,13 @@
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\bin\Debug\netcoreapp3.1\HitachiProgramm.exe
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\bin\Debug\netcoreapp3.1\HitachiProgramm.deps.json
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\bin\Debug\netcoreapp3.1\HitachiProgramm.runtimeconfig.json
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\bin\Debug\netcoreapp3.1\HitachiProgramm.runtimeconfig.dev.json
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\bin\Debug\netcoreapp3.1\HitachiProgramm.dll
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\bin\Debug\netcoreapp3.1\HitachiProgramm.pdb
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\obj\Debug\netcoreapp3.1\HitachiProgramm.AssemblyInfoInputs.cache
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\obj\Debug\netcoreapp3.1\HitachiProgramm.AssemblyInfo.cs
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\obj\Debug\netcoreapp3.1\HitachiProgramm.csproj.CoreCompileInputs.cache
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\obj\Debug\netcoreapp3.1\HitachiProgramm.dll
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\obj\Debug\netcoreapp3.1\HitachiProgramm.pdb
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\obj\Debug\netcoreapp3.1\HitachiProgramm.genruntimeconfig.cache
+C:\Users\gshme\source\repos\HitachiProgramm\HitachiProgramm\obj\Debug\netcoreapp3.1\HitachiProgramm.csprojAssemblyReference.cache
